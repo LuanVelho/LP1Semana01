@@ -17,6 +17,12 @@ namespace VariousTypes
             Console.WriteLine(numero3);
             Console.WriteLine(numero4);
 
+            char copyright = '\u00A9';
+            char borboleta = '\u2A1D';
+
+            Console.WriteLine(copyright);
+            Console.WriteLine(borboleta);
+
         }
     }
 }
