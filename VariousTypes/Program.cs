@@ -29,6 +29,12 @@ namespace VariousTypes
 
             Console.WriteLine(numero5);
             Console.WriteLine(numero6);
+
+            bool condicao = 7 > 3;
+            bool condicao1 = 33 < 77;
+
+            Console.WriteLine(condicao);
+            Console.WriteLine(condicao1);
             
 
 
