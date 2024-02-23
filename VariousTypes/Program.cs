@@ -23,6 +23,15 @@ namespace VariousTypes
             Console.WriteLine(copyright);
             Console.WriteLine(borboleta);
 
+            float numero5 = 5.653f;
+            decimal numero6 = 8.5432m;
+            
+
+            Console.WriteLine(numero5);
+            Console.WriteLine(numero6);
+            
+
+
         }
     }
 }
